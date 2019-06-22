@@ -1,0 +1,2 @@
+module SimpleCmsHelper
+end
